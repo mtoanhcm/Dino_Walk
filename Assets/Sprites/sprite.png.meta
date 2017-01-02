@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 02b1d828eed0cbb4f9556e3fe9afbab9
+timeCreated: 1479484825
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button Resume
+    21300002: Button Back
+    21300004: Button Next
+    21300006: Button Sound Mute
+    21300008: Button Home
+    21300010: Button Sound On
+    21300012: Button Tutorial
+    21300014: sprite_7
+    21300016: sprite_8
+    21300018: Dino_1
+    21300020: Dino_2
+    21300022: Dino_3
+    21300024: Dino_4
+    21300026: Dino_5
+    21300028: Dino_6
+    21300030: Dino_7
+    21300032: Dino_8
+    21300034: Dino_9
+    21300036: CoundDown Image
+    21300038: Back Card
+    21300040: Card Volcano
+    21300042: Card Rope
+    21300044: Card Egg
+    21300046: Button Play
+    21300048: Card 1 Head
+    21300050: Card 1 Tail
+    21300052: Card Hybird
+    21300054: Card Two Heads
+    21300056: Card Triple Heads
+    21300058: Card Two Tails
+    21300060: Card Triple Tails
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Resume
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 969
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Back
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 974
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Next
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 974
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Sound Mute
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 976
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Home
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 974
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Sound On
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 975
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Tutorial
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 975
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 827
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 814
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 818
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 818
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_5
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 820
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 831
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_7
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 824
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_8
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 809
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dino_9
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 815
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoundDown Image
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 677
+        width: 216
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back Card
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 579
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card Volcano
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 579
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card Rope
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 579
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card Egg
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 580
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Play
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 561
+        width: 226
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card 1 Head
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 391
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card 1 Tail
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 391
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card Hybird
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 391
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card Two Heads
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 391
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card Triple Heads
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 391
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card Two Tails
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 195
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card Triple Tails
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 196
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
